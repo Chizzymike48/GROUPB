@@ -1,4 +1,4 @@
-i
+
 import './App.css'
 import ProductsPage from './Components/Components/Products/ProductsPage'
 
