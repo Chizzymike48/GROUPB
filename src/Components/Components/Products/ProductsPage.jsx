@@ -1,4 +1,4 @@
-import AdminLayout from "../layout/AdminLayout"
+import AdminLayout from "./AdminLayout"
 import ProductsHeader from "./ProductsHeader"
 import ProductsFilter from "./ProductsFilter"
 import ProductGrid from "./ProductGrid"
