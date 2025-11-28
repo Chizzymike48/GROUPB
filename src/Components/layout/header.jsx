@@ -9,7 +9,7 @@ function Header() {
 
       <div className="flex gap-4 items-center">
         🔔
-        <div className="bg-gray-300 h-8 w-8 rounded-full"></div>
+        <div className="bg-gray-400 h-8 w-8 rounded-full"></div>
       </div>
 
     </div>
